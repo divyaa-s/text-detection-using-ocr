@@ -1,0 +1,7 @@
+Dataset was generated using 3475 font styles available in Google Fonts. Each alphanumeric character (uppercase, lowercase and numerals) was generated in each font style and stored in a directory. Total dataset size: 2.1 lakh images for 62 classes.
+Link: https://www.kaggle.com/datasets/harieh/ocr-dataset
+
+
+OCR Receipts from Grocery Stores Text Detection - retail dataset
+The Grocery Store Receipts Dataset is a collection of photos captured from various grocery store receipts. This dataset is specifically designed for tasks related to Optical Character Recognition (OCR) and is useful for retail.
+Link: https://www.kaggle.com/datasets/trainingdatapro/ocr-receipts-text-detection
